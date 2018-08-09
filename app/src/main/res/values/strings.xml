@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="person_name">Person Name</string>
+    <string name="company_name">Company Name</string>
+    <string name="contacts">Contacts</string>
+    <string name="view_contact">View Contact</string>
+    <string name="take_a_new_photo">Take a photo</string>
+    <string name="choose_photo_from_gallery">Choose a photo from gallery</string>
+    <string name="gallery_image">Gallery Image</string>
+    <string name="camera_image">Camera Image</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="person">Person</string>
+    <string name="person_company_name">ChicMic</string>
+    <string name="danger_dialog">Do you really want to delete?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="close">close</string>
+
+    <!--Don't touch these resources without knowing their usage-->
+    <string name="create_directory">Create Directory</string>
+    <string name="directory_created">Main Directory Created :</string>
+    <string name="camera">Camera</string>
+    <string name="date_pattern">yyyyMMdd_HHmmss</string>
+    <string name="img_">IMG_</string>
+    <string name="jpg_extension">.jpg</string>
+    <string name="primary_utils">primary</string>
+    <string name="forward_slash">/</string>
+    <string name="content_download_path">content://downloads/public_downloads</string>
+    <string name="image">image</string>
+    <string name="video">video</string>
+    <string name="audio">audio</string>
+    <string name="_id">_id=?</string>
+    <string name="content">content</string>
+    <string name="file">file</string>
+    <string name="_data">_data</string>
+    <string name="regex_for_url">:</string>
+    <string name="valid_name_warning">Please Enter a valid name</string>
+    <string name="valid_company_name_warning">Please Enter a valid Company Name</string>
+    <string name="provider_id">in.co.chicmic.contactapp.provider</string>
+    <string name="permission_denied">Permission Denied</string>
+</resources>

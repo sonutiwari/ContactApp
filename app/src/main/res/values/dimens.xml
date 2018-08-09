@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="item_width">300dp</dimen>
+    <dimen name="card_elevation_12">12dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="details_card">160dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="card_radius_detail_view_80">80dp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="radius_0">0dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="img_size_recycler_100">100dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="radius_50">50dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+</resources>
